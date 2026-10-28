@@ -1,0 +1,17 @@
+﻿双棱相向
+  展开图示例
+    ##WW####
+    ##YY####
+    GGOOBBOO
+    GGWWBBYY
+    ##RR####
+    ##RR####
+
+棱左棱右
+  展开图示例
+    ##BG####
+    ##RR####
+    OYBGYOYY
+    BBRRGGOO
+    ##WW####
+    ##WW####

@@ -1,0 +1,11 @@
+﻿打乱： B2 L U R2 D2 R' B U2 B2 U L' U' B' L' U2 L2 U2 F
+还原： F  y U y' z' F2' y' F' z3' B' x R B x' R z2 B' D' R D R' z x' y'  y' U2 y' U y3 U' y3 U' y2 U' y' U y x2' y U R U R U R U R U R U R U R U R z U' y' z3' y z' x' U R U R U R U R U R U R U R U z y F x U' y R y F' y'  y U y' U' x2 y U R U R U R U R U R U R U R U y' x y3 U' y2 z2' U R U R U R U R U R U R U R U y' x y3' R' B' L' F' R' B' L' F' R' B' L' F'
+
+打乱： L' D2 L' F R D R2 B' L2 U2 R2 U2 F' U2 B' D' B U'
+还原： z2 F' z2 y3' U y' U y' U3' y3' U  y2 U' y2' U2 y' U y2' U y z y z' x y2 z2' U R U R U R U R U R U R U R U z y2' U3' y U z' x z' U R U R U R U R U R U R U R U z y' U y3' z2' R' B' L' F' R' B' L' F' R' B' L' F' R' B' L' F' R' B' L' F' R' B' L' F' R' B' L' F' R' B' L' F' R' B' L' F' z2 y2' R' B' L' F' R' B' L' F' R' B' L' F'
+
+打乱： L' D2 F2 R U R' B' U B' R' U L F L' B R2 D2 R2
+还原： F' y U z' y z' y L' y' x U2 R B' R' U R B R' U' y' L2' B' U B U' z U y3' U' y' U' y' U' R' B' L' F' R' B' L' F' R' B' L' F' U' z x' z3' y U R U R U R U R U R U R U R U
+
+打乱： B' R' F' U2 F D2 R2 U F' L2 U2 F' D' R2 U2 B' D2 F'
+还原： U' R U R U R U R U R z' U2 y' z' y  R B R B z y z' U' R' U B' U y' U z' L' B L U' F' L' F U R' U R' U R U' R B D' R' D B R' U R U' x z U' z' y z3' U R U R U R U R U R U R U R U z' y U R U R U R U R U R U R U R U z y2' U2' y z' B L' U B L' U B L' U B L' U B L' U B L' U B L' U B L' U B L' U B L' U B L' U B L' U B L' U B L' U B L' U
